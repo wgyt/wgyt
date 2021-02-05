@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wgyt&label=Profile%20views&color=000000&style=flat" alt="wgyt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wgyt&theme=dark" alt="wgyt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wgyt&theme=darkhub" alt="wgyt" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/wgyt2120" target="blank"><img src="https://img.shields.io/twitter/follow/wgyt2120?logo=twitter&style=for-the-badge" alt="wgyt2120" /></a> </p>
 
