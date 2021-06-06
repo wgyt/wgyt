@@ -10,6 +10,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: sarisia/actions-readme-feed@v1
         with:
-          url: 'https://stafing.wgyt.tk/feed.xml'
+          url: 'https://staging.wgyt.tk/feed.xml'
           file: README.md
       - uses: sarisia/actions-commit@master
