@@ -12,4 +12,5 @@ jobs:
         with:
           url: 'https://staging.wgyt.tk/feed.xml'
           file: README.md
+          sort: false
       - uses: sarisia/actions-commit@master
