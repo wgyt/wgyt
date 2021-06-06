@@ -8,3 +8,6 @@
 - wgytwebsites
 - my own stuff
 - ~~School~~
+## Latest Posts
+<!-- feed start -->
+<!-- feed end -->
