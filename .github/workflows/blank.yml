@@ -1,0 +1,15 @@
+name: CI
+'on':
+  schedule:
+    - cron: 0 0 * * *
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+  steps:
+    - uses: actions/checkout@v2
+    - uses: sarisia/actions-readme-feed@v1
+      with:
+        url: 'https://stafing.wgyt.tk/feed.xml'
+        file: README.md
+    - uses: sarisia/actions-commit@master
