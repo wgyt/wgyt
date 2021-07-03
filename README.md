@@ -1,4 +1,6 @@
 # Hi 👋, my name is William Horning (wgyt)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wgyt&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 ## Latest Posts
 <!-- feed start -->
