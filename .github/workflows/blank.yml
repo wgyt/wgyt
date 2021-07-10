@@ -11,7 +11,8 @@ jobs:
         uses: actions/checkout@main
         with:
             ref: ${{ github.head_ref }}
-            token: ${{ secrets.WGYTBOT }}      
+            token: ${{ secrets.WGYTBOT }}   
+            user: wgytbot
       - uses: sarisia/actions-readme-feed@v1
         with:
           url: 'https://staging.wgyt.tk/feed.xml'
