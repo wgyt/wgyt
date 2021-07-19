@@ -12,7 +12,6 @@ jobs:
         with:
             ref: ${{ github.head_ref }}
             token: ${{ secrets.WGYTBOT }}   
-            user: wgytbot
       - uses: sarisia/actions-readme-feed@v1
         with:
           url: 'https://wgyt.tk/feed.xml'
