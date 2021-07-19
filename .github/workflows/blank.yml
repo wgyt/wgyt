@@ -15,7 +15,7 @@ jobs:
             user: wgytbot
       - uses: sarisia/actions-readme-feed@v1
         with:
-          url: 'https://staging.wgyt.tk/feed.xml'
+          url: 'https://wgyt.tk/feed.xml'
           file: README.md
           sort: false
       - uses: sarisia/actions-commit@master
